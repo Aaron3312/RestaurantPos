@@ -40,11 +40,11 @@ from taking orders to generating detailed sales reports.
 ---
 
 ## 📂 Documentation Structure
-- [Project Plan](./Plan-de-Proyecto)  
-- [Requirements Analysis](./Analisis-de-Requisitos)  
-- [Design and Construction](./Diseno-y-Construccion)  
-- [Testing](./Pruebas)  
-- [Deployment and Operations](./Despliegue-y-Operaciones)  
+- [Project Plan]()  
+- [Requirements Analysis]()  
+- [Design and Construction]()  
+- [Testing]()  
+- [Deployment and Operations]()  
 
 ---
 
